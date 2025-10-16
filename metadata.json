@@ -1,0 +1,5 @@
+{
+  "name": "CodeQuest: Learn Python by Playing",
+  "description": "CodeQuest is a gamified Python learning platform. It allows users to register/login, explore Python coding challenges, earn XP and coins, and track progress — all through an interactive UI.",
+  "requestFramePermissions": []
+}
